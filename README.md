@@ -20,8 +20,8 @@ An interactive Power BI dashboard that provides comprehensive insights into cred
 - **KPIs**
   - **Total Revenue**: ₹55M
   - Total **Interest Earned**: ₹8M
-  - Total Income: ₹576M
-  - Customer **Satisfaction Score** (CSS): 3.19
+  - **Total Income**: ₹576M
+  - **Customer** **Satisfaction Score** (CSS): 3.19
 
 - **Visual Insights**
   - Revenue trends by Month and Gender (line chart)
@@ -29,8 +29,8 @@ An interactive Power BI dashboard that provides comprehensive insights into cred
   - Revenue by:
     - Income Group (High / Medium / Low)
     - Job Level (Businessman, Salaried, Govt., Retired, etc.)
-    - Education Level (Graduate, Post-grad, Doctorate, etc.)
-    - Age Group (20–50)
+    - **Education Level** (Graduate, Post-grad, Doctorate, etc.)
+    - **Age Group** (20–50)
 
 - **Card Category Breakdown**
   - Blue, Gold, Platinum, and Silver
@@ -47,25 +47,25 @@ An interactive Power BI dashboard that provides comprehensive insights into cred
 
 - **KPIs**
   - **Revenue**: ₹55M
-  - Interest: ₹8M
-  - Amount: ₹45M
-  - Transaction Count: 656K
+  - **Interest**: ₹8M
+  - **Amount**: ₹45M
+  - **Transaction Count**: 656K
 
 - **Key Charts**
   - **Quarterly Revenue vs Transaction Volume**
   - Revenue by:
     - Education Level
     - Occupation
-    - Chip Usage (Chip, Swipe, Online)
+    - **Chip Usage** (Chip, Swipe, Online)
     - Expenditure Type (Bills, Food, Travel, etc.)
 
 - **Card Category Insights**
-  - Revenue, Transaction Amount, and Interest across different card types
+  - Revenue, Transaction Amount, and Interest across different **card types**
 
 - **Interactive Filters**
-  - Card Type: Silver, Blue, Gold, Platinum
+  - **Card Type**: Silver, Blue, Gold, Platinum
   - Quarter Selector: Q1 – Q4
-  - Gender and Income Level
+  - Gender and **Income Level**
 
 ---
 
