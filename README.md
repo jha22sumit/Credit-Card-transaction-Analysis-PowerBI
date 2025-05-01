@@ -18,14 +18,14 @@ An interactive Power BI dashboard that provides comprehensive insights into cred
 ### 📈 Credit Card Customer Report
 
 - **KPIs**
-  - Total Revenue: ₹55M
-  - Total Interest Earned: ₹8M
+  - **Total Revenue**: ₹55M
+  - Total **Interest Earned**: ₹8M
   - Total Income: ₹576M
-  - Customer Satisfaction Score (CSS): 3.19
+  - Customer **Satisfaction Score** (CSS): 3.19
 
 - **Visual Insights**
   - Revenue trends by Month and Gender (line chart)
-  - Top 5 States by Revenue
+  - Top 5 **States by Revenue**
   - Revenue by:
     - Income Group (High / Medium / Low)
     - Job Level (Businessman, Salaried, Govt., Retired, etc.)
@@ -39,20 +39,20 @@ An interactive Power BI dashboard that provides comprehensive insights into cred
 - **Interactive Filters**
   - Quarter (Q1 to Q4)
   - Gender (M / F)
-  - Income Level (Low / Medium / High)
+  - **Income Level** (Low / Medium / High)
 
 ---
 
 ### 🧾 Credit Card Transaction Report
 
 - **KPIs**
-  - Revenue: ₹55M
+  - **Revenue**: ₹55M
   - Interest: ₹8M
   - Amount: ₹45M
   - Transaction Count: 656K
 
 - **Key Charts**
-  - Quarterly Revenue vs Transaction Volume
+  - **Quarterly Revenue vs Transaction Volume**
   - Revenue by:
     - Education Level
     - Occupation
@@ -109,7 +109,5 @@ An interactive Power BI dashboard that provides comprehensive insights into cred
 
 ## 📬 Contact
 
-Open an issue for feedback or enhancements. Contributions welcome!
+Open  an issue for feedback or enhancements. Contributions welcome!
 
-
-https://github.com/jha22sumit/Credit-Card-transaction-Analysis-PowerBI/blob/abd1a385da7d87b7ab0472c4369501e8aafde863/Transaction%20report.png
